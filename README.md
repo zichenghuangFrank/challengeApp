@@ -1,24 +1,14 @@
-# challenge
+# challenge Application
 
-## Project setup
-```
-npm install
-```
+The weather report application consumes a public Weather API which broadcasts the weather in two biggest cities BeiJing and Shanghai.
+For this project, we will use 'npm install view-design --save', 'npm install vue-router' and 'npm install --save axios vue-axios'.
+To have a persistent storage, users can download the current weather report as a local .txt file for future review.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+API reference: https://v0.yiketianqi.com/api
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Image reference: https://www.queensu.ca/innovationcentre/global-network-node-beijing
+                 https://en.wikipedia.org/wiki/Shanghai
 
-### Lints and fixes files
-```
-npm run lint
-```
+Layout reference: https://www.iviewui.com/components/layout
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Deploy reference: https://cli.vuejs.org/guide/deployment.html#github-pages
