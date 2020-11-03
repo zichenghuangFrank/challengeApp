@@ -1,4 +1,4 @@
-# challenge Application
+# Weather Report Application
 
 The weather report application consumes a public Weather API which broadcasts the weather in two biggest cities BeiJing and Shanghai.
 For this project, we will use 'npm install view-design --save', 'npm install vue-router' and 'npm install --save axios vue-axios'.
